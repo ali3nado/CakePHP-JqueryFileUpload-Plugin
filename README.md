@@ -1,6 +1,7 @@
 #JqueryFileUpload Plugin for CakePHP2.x
 The JqueryFileUpload Plugin provides an easy-to-use feature jQuery-File-Upload in CakePHP2.x
 
+#Version
 This v1.0
 
 ## Description
@@ -68,7 +69,7 @@ Your View file:
     	 /* Load templates */
         echo $this->UploadTemplate->renderForm(array('action' => 'upload')); //Set action for form
         echo $this->UploadTemplate->renderListFiles(array('action_delete' => 'deleteFile')); //Set action for remove files
-   
+    
         /* Load libs js e css jQuery-File-Upload and dependences */
         echo $this->UploadScript->loadLibs();
         echo $this->Html->scriptBlock("
