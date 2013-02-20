@@ -7,11 +7,11 @@ This v1.0
 JqueryFileUpload Plugin for CakePHP2.x is a practical way to use the library [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
 
 ## Libs
-[jQuery-File-Upload, from blueimp](https://github.com/blueimp/jQuery-File-Upload)
-[Bootstrap-Image-Gallery, from blueimp](https://github.com/blueimp/Bootstrap-Image-Gallery)
-[JavaScript-Load-Image, from blueimp](https://github.com/blueimp/JavaScript-Load-Image)
-[JavaScript-Canvas-to-Blob, from blueimp](https://github.com/blueimp/JavaScript-Canvas-to-Blob)
-[JavaScript-Templates, from blueimp](https://github.com/blueimp/JavaScript-Templates)
+* [jQuery-File-Upload, from blueimp](https://github.com/blueimp/jQuery-File-Upload)
+* [Bootstrap-Image-Gallery, from blueimp](https://github.com/blueimp/Bootstrap-Image-Gallery)
+* [JavaScript-Load-Image, from blueimp](https://github.com/blueimp/JavaScript-Load-Image)
+* [JavaScript-Canvas-to-Blob, from blueimp](https://github.com/blueimp/JavaScript-Canvas-to-Blob)
+* [JavaScript-Templates, from blueimp](https://github.com/blueimp/JavaScript-Templates)
 
 ## Bootstrap
 [Bootstrap, from Twitter](http://twitter.github.com/bootstrap/)
