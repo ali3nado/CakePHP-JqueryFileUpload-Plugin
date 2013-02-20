@@ -14,7 +14,7 @@ JqueryFileUpload Plugin for CakePHP2.x is a practical way to use the library [jQ
 * [JavaScript-Templates, from blueimp](https://github.com/blueimp/JavaScript-Templates)
 
 ## Bootstrap
-[Bootstrap, from Twitter](http://twitter.github.com/bootstrap/)
+* [Bootstrap, from Twitter](http://twitter.github.com/bootstrap/)
 
 ## Usage
 Controller/AppController.php:
@@ -62,12 +62,12 @@ Controller/AppController.php:
         }
 
 Your View file:
-    <!--Load templates-->
+   
     <?php
+    
+    	 /* Load templates */
         echo $this->UploadTemplate->renderForm(array('action' => 'upload')); //Set action for form
         echo $this->UploadTemplate->renderListFiles(array('action_delete' => 'deleteFile')); //Set action for remove files
-    
-    ---
    
         /* Load libs js e css jQuery-File-Upload and dependences */
         echo $this->UploadScript->loadLibs();
