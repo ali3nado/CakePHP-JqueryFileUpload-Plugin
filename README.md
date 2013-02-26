@@ -25,7 +25,6 @@ Controller/AppController.php:
             public $components = array('JqueryFileUpload.Upload');
             public $helpers = array('JqueryFileUpload.UploadScript', 'JqueryFileUpload.UploadTemplate');
 
-            ---
 
             public function deleteFile($file) {
                 $this->autoRender = false;
@@ -57,9 +56,7 @@ Controller/AppController.php:
                     )
                 ));
             }
-            
-            ---
-
+           
         }
 
 Your View file:
