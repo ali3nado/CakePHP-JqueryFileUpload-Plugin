@@ -1,4 +1,6 @@
-#JqueryFileUpload Plugin for CakePHP2.x
+#JqueryFileUpload Plugin for CakePHP2.x (Abandoned Project)
+We substitute for [angular-file-upload](https://github.com/nervgh/angular-file-upload)
+
 The JqueryFileUpload Plugin provides an easy-to-use feature jQuery-File-Upload in CakePHP2.x
 
 #Version
